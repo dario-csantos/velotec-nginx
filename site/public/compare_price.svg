@@ -1,0 +1,15 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.1875 10.3403C15.1875 10.5193 15.0476 10.6644 14.875 10.6644H12.7689L13.075 11.0135C13.1911 11.1459 13.1817 11.3509 13.054 11.4713C12.9263 11.5917 12.7286 11.5819 12.6125 11.4495L11.8313 10.5583C11.7229 10.4347 11.7229 10.2459 11.8313 10.1223L12.6125 9.23108C12.7286 9.09865 12.9263 9.08889 13.054 9.20928C13.1817 9.32968 13.1911 9.53464 13.075 9.66707L12.7689 10.0162L14.875 10.0162C15.0476 10.0162 15.1875 10.1613 15.1875 10.3403Z" fill="#4A4A4A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.8125 12.9653C4.8125 13.1443 4.95241 13.2894 5.125 13.2894H7.23108L6.92502 13.6385C6.80892 13.7709 6.81833 13.9759 6.94604 14.0963C7.07375 14.2167 7.27139 14.2069 7.38748 14.0745L8.16873 13.1833C8.27709 13.0597 8.27709 12.8709 8.16873 12.7473L7.38748 11.8561C7.27139 11.7236 7.07375 11.7139 6.94604 11.8343C6.81833 11.9547 6.80892 12.1596 6.92502 12.2921L7.23108 12.6412L5.125 12.6412C4.95241 12.6412 4.8125 12.7863 4.8125 12.9653Z" fill="#4A4A4A"/>
+<path d="M17 5.625V14.375" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M17 14.375L11.75 14.375" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M17 5.625L13.5 3" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M10 5.625L13.5 3" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M10 8.25V17" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M3 8.25V17" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M10 17L3 17" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M10 8.25L6.5 5.625" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M3 8.25L6.5 5.625" stroke="#4A4A4A" stroke-width="1.3125" stroke-linecap="round"/>
+<circle cx="6.5" cy="8.25" r="0.4375" stroke="#4A4A4A" stroke-width="0.875"/>
+<circle cx="13.5" cy="5.625" r="0.4375" stroke="#4A4A4A" stroke-width="0.875"/>
+</svg>

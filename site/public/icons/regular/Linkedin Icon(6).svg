@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 98.89 98.89">
+  <defs>
+    <linearGradient id="Degradado_sin_nombre_122" data-name="Degradado sin nombre 122" x1="6.62" y1="24.72" x2="92.27" y2="74.17" gradientTransform="translate(88.16 -8.79) rotate(78.62)" gradientUnits="userSpaceOnUse">
+      <stop offset=".56" stop-color="#7595c9"/>
+      <stop offset="1" stop-color="#3665a7"/>
+    </linearGradient>
+  </defs>
+  <g id="Objects">
+    <g>
+      <circle cx="49.45" cy="49.45" r="49.45" transform="translate(-8.79 88.16) rotate(-78.62)" style="fill: url(#Degradado_sin_nombre_122); stroke-width: 0px;"/>
+      <path d="M22.48,35.64h12.05v38.71h-12.05v-38.71ZM28.5,16.4c3.85,0,6.97,3.13,6.97,6.97s-3.12,6.98-6.97,6.98-6.98-3.13-6.98-6.98,3.12-6.97,6.98-6.97M42.07,74.36h12.02v-19.15c0-5.05.95-9.94,7.22-9.94s6.26,5.78,6.26,10.27v18.82h12.02v-21.24c0-10.43-2.25-18.44-14.42-18.44-5.85,0-9.78,3.21-11.39,6.25h-.16v-5.29h-11.53v38.71Z" style="fill: #fff; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>

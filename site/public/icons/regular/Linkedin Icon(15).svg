@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 496.18 496.18">
+  <defs>
+    <linearGradient id="Degradado_sin_nombre_10" data-name="Degradado sin nombre 10" x1="72.66" y1="72.66" x2="423.52" y2="423.52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#097cb8"/>
+      <stop offset="1" stop-color="#3a59a8"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle cx="248.09" cy="248.09" r="248.09" style="fill: url(#Degradado_sin_nombre_10); stroke-width: 0px;"/>
+      <g>
+        <path d="M148.69,189.99h42.65v137.01h-42.65v-137.01ZM170.03,121.91c13.64,0,24.69,11.07,24.69,24.68s-11.05,24.71-24.69,24.71-24.73-11.08-24.73-24.71,11.05-24.68,24.73-24.68" style="fill: #fff; stroke-width: 0px;"/>
+        <path d="M218.07,189.99h40.85v18.74h.56c5.7-10.78,19.59-22.13,40.33-22.13,43.12,0,51.07,28.36,51.07,65.26v75.15h-42.56v-66.61c0-15.9-.31-36.33-22.13-36.33s-25.55,17.31-25.55,35.17v67.77h-42.57v-137.01Z" style="fill: #fff; stroke-width: 0px;"/>
+      </g>
+    </g>
+  </g>
+</svg>

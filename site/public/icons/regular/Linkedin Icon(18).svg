@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.45 74.32">
+  <defs>
+    <linearGradient id="Degradado_sin_nombre_122" data-name="Degradado sin nombre 122" x1="0" y1="37.16" x2="74.45" y2="37.16" gradientUnits="userSpaceOnUse">
+      <stop offset=".56" stop-color="#7595c9"/>
+      <stop offset="1" stop-color="#3665a7"/>
+    </linearGradient>
+  </defs>
+  <g id="Objects">
+    <path d="M1.22,24.68h15.44v49.64H1.22V24.68ZM8.95,0c4.94,0,8.94,4.01,8.94,8.94s-4,8.95-8.94,8.95S0,13.88,0,8.94,3.99,0,8.95,0M26.35,74.32h15.41v-24.56c0-6.48,1.22-12.75,9.25-12.75s8.02,7.41,8.02,13.17v24.14h15.41v-27.23c0-13.37-2.89-23.65-18.5-23.65-7.51,0-12.54,4.11-14.6,8.02h-.21v-6.78h-14.79v49.64Z" style="fill: url(#Degradado_sin_nombre_122); stroke-width: 0px;"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.1 55.1">
+  <g id="Design">
+    <g>
+      <path d="M27.55,0c15.22,0,27.55,12.33,27.55,27.55s-12.33,27.55-27.55,27.55l-1.9-26.32L27.55,0Z" style="fill: #ff0084; stroke-width: 0px;"/>
+      <path d="M27.55,55.1C12.33,55.1,0,42.77,0,27.55S12.33,0,27.55,0" style="fill: #4176fa; stroke-width: 0px;"/>
+      <g>
+        <path d="M41.93,27.55c0,3.15-2.55,5.7-5.7,5.7s-5.7-2.55-5.7-5.7,2.55-5.7,5.7-5.7,5.7,2.55,5.7,5.7Z" style="fill: #fff; stroke-width: 0px;"/>
+        <path d="M24.52,27.55c0,3.15-2.55,5.7-5.7,5.7s-5.7-2.55-5.7-5.7,2.55-5.7,5.7-5.7,5.7,2.55,5.7,5.7Z" style="fill: #fff; stroke-width: 0px;"/>
+      </g>
+    </g>
+  </g>
+</svg>

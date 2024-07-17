@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 286.51 286.51">
+  <defs>
+    <linearGradient id="linear-gradient" x1="41.96" y1="41.96" x2="244.55" y2="244.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8d509f"/>
+      <stop offset="1" stop-color="#765ca7"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path d="M143.26,0c79.12,0,143.26,64.14,143.26,143.26s-64.14,143.26-143.26,143.26S0,222.37,0,143.26,64.14,0,143.26,0" style="fill: url(#linear-gradient); stroke-width: 0px;"/>
+    <g>
+      <path d="M113.88,78.04l-25.6,25.6v92.17h30.72v25.6l25.6-25.6h20.48l46.09-46.08v-71.69h-97.29ZM200.93,144.61l-20.48,20.48h-20.48l-17.92,17.92v-17.92h-23.04v-76.81h81.93v56.33Z" style="fill: #fff; stroke-width: 0px;"/>
+      <rect x="175.33" y="106.2" width="10.24" height="30.72" style="fill: #fff; stroke-width: 0px;"/>
+      <rect x="147.16" y="106.2" width="10.24" height="30.72" style="fill: #fff; stroke-width: 0px;"/>
+    </g>
+  </g>
+</svg>
