@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h2[name="loadingMsg"] {
+            color: green;
+        }
+
+        body {
+            background-color: black;
+            background-image: radial-gradient(rgba(0, 60, 0, 0.60), black 120%);
+            background-attachment: fixed;
+            color: #11e411;
+            font-family: 'Courier Prime', monospace;
+            font-size: 12px;
+            padding: 5px;
+            text-shadow: 0 0 4px #C8C8C8;
+        }
+    </style>
+    <script src="wasm_exec.js"></script>
+</head>
+
+<body>
+    <script>
+        // Polyfill
+        let loading = true;
+        if (!WebAssembly.instantiateStreaming) {
+            WebAssembly.instantiateStreaming = async (resp, importObject) => {
+                const source = await (await resp).arrayBuffer();
+                let result = await WebAssembly.instantiate(source, importObject);
+                loading = false;
+                document.querySelector('h2[name="loadingMsg"]').style.display = 'none'; // Hide the h2 element
+                return result;
+            };
+        }
+
+        const go = new Go();
+        WebAssembly.instantiateStreaming(fetch("viple.wasm"), go.importObject).then(result => {
+            go.run(result.instance);
+            loading = false;
+            document.querySelector('h2[name="loadingMsg"]').style.display = 'none'; // Hide the h2 element
+        });
+
+        if (loading) {
+            document.querySelector('h2[name="loadingMsg"]').style.display = 'block'; // Show the h2 element
+        }
+    </script>
+    <h2 name="loadingMsg">Loading Viple. This may take a minute the first time you load.</h2>
+</body>
+
+</html>
